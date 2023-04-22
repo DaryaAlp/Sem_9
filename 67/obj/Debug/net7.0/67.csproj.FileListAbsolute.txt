@@ -1,0 +1,15 @@
+D:\Курсы_программирование\C#\Семинары_C#\Sem_9\67\bin\Debug\net7.0\67.exe
+D:\Курсы_программирование\C#\Семинары_C#\Sem_9\67\bin\Debug\net7.0\67.deps.json
+D:\Курсы_программирование\C#\Семинары_C#\Sem_9\67\bin\Debug\net7.0\67.runtimeconfig.json
+D:\Курсы_программирование\C#\Семинары_C#\Sem_9\67\bin\Debug\net7.0\67.dll
+D:\Курсы_программирование\C#\Семинары_C#\Sem_9\67\bin\Debug\net7.0\67.pdb
+D:\Курсы_программирование\C#\Семинары_C#\Sem_9\67\obj\Debug\net7.0\67.csproj.AssemblyReference.cache
+D:\Курсы_программирование\C#\Семинары_C#\Sem_9\67\obj\Debug\net7.0\67.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсы_программирование\C#\Семинары_C#\Sem_9\67\obj\Debug\net7.0\67.AssemblyInfoInputs.cache
+D:\Курсы_программирование\C#\Семинары_C#\Sem_9\67\obj\Debug\net7.0\67.AssemblyInfo.cs
+D:\Курсы_программирование\C#\Семинары_C#\Sem_9\67\obj\Debug\net7.0\67.csproj.CoreCompileInputs.cache
+D:\Курсы_программирование\C#\Семинары_C#\Sem_9\67\obj\Debug\net7.0\67.dll
+D:\Курсы_программирование\C#\Семинары_C#\Sem_9\67\obj\Debug\net7.0\refint\67.dll
+D:\Курсы_программирование\C#\Семинары_C#\Sem_9\67\obj\Debug\net7.0\67.pdb
+D:\Курсы_программирование\C#\Семинары_C#\Sem_9\67\obj\Debug\net7.0\67.genruntimeconfig.cache
+D:\Курсы_программирование\C#\Семинары_C#\Sem_9\67\obj\Debug\net7.0\ref\67.dll
